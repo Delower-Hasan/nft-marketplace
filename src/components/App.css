@@ -1,0 +1,10 @@
+nav{
+    background-color: #333;
+    height:100px;
+    width:100%;
+    color:#fff;
+}
+li.acName{
+    color:#fff;
+    margin-left: auto;
+}
